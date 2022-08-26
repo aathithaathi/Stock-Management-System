@@ -19,7 +19,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author acer
+ * @author Aathith
  */
 public class Home extends javax.swing.JFrame {
          pop_up pop = new pop_up();
